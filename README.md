@@ -5,3 +5,7 @@ Text
 ## Branching test
 
 1. merge to main branch
+
+## Merging test
+
+Testing merging
