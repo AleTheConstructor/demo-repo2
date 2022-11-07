@@ -9,3 +9,7 @@ Text
 ## Merging test
 
 Testing merging
+
+## Merge test 2
+
+Merge test 2
